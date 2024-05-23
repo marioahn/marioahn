@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 - **Email:** [marioahn@naver.com](mailto:marioahn@example.com)
-- **NotionBlog:** [marioahn](https://marioa.notion.site/HJ-s-blog-30ccccc91deb489cb5bc0dbfe731fa70?pvs=4)
+- **Blog:** [Megi's notion blog](https://marioa.notion.site/HJ-s-blog-30ccccc91deb489cb5bc0dbfe731fa70?pvs=4)
