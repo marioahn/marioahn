@@ -35,11 +35,12 @@ Here are some ideas to get you started:
 -->
 ## 😄Hi. marioahn's git profile😄 (미완성)
 
-### 🛠️ Skills and Tools
+### 🛠️ Skills and Tools (예시)
 - **Languages:** Python, SQL
 - **Frameworks:** PyTorch, TensorFlow
 - **Tools:** OpenCV, Git, GitHub, Linux
 
+(예시)
 <table>
   <tr>
     <td>
