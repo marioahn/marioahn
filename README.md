@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📫 How to reach me
+### 📫 제 메일과, TIL을 위주로 적어가는 blog입니다
 - **Email:** [marioahn@naver.com](mailto:marioahn@example.com)
 - **Blog:** [Megi's notion blog](https://marioa.notion.site/HJ-s-blog-30ccccc91deb489cb5bc0dbfe731fa70?pvs=4)
