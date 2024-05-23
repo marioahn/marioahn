@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   
 -->
-## 😄Hi. marioahn's git profile😄 (미완성)
+## 안녕하세요!😄 환영합니다. 잘 부탁드려요🌱 (미완성)
 
 ### 🛠️ Skills and Tools
 - **Languages:** Python, JavaScript, Java
