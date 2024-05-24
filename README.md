@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 안녕하세요!😄 환영합니다. 잘 부탁드려요🌱 (미완성)
 
 ### 🛠️ Skills and Tools
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, JavaScript, (TypeScript) , Java
 - **Frameworks:** Node.js, Nest.js, Spring
 - **DB**: MySQL, mongoDB, ...
 - **Tools:** Git, GitHub, ...
@@ -39,6 +39,9 @@ Here are some ideas to get you started:
     </td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     </td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -54,6 +57,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>
@@ -65,6 +69,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </td>
+    <td></td>
   </tr>
 </table>
 
