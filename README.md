@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 ## 안녕하세요!😄 환영합니다. 잘 부탁드려요🌱
 
 ### 🛠️ Skills and Tools
-- **Languages:** Python, JavaScript, (TypeScript) , Java
-- **Frameworks:** Node.js, Nest.js, Spring
-- **DB**: MySQL, mongoDB, ...
-- **Tools:** Git, GitHub, ...
+- **Languages:** Python, JavaScript, TypeScript , Java
+- **Frameworks:** Node.js, Express, Nest.js, Spring, React
+- **DB**: MySQL, mongoDB, H2
+- **AWS Cloud**: EC2, S3, CDN, Route53, Lambda, RDB(MySQL), MongoDB Atlas-AWS
+- **Tools:** Git, GitHub, Github Actions, GitKraken, SourceTree
 
 <table>
   <tr>
